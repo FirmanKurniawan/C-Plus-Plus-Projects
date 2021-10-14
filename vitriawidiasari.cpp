@@ -12,3 +12,6 @@ hasil=a-b;
 cout<<“hasil pengurangan (a-b) = “<<hasil;
 getch ();
 }
+
+Hacktoberfest-indonesia-2021
+  Freedom13
