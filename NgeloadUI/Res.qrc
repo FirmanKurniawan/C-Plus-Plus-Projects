@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ui_file">
+        <file>components/calc.ui</file>
+    </qresource>
+</RCC>
