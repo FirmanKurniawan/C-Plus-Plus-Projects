@@ -9,6 +9,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 #Hacktoberfest 2022
 #Hacktoberfest
+#HACKTOBERFEST2022
 
 Sort an array of 0s, 1s and 2s
 
